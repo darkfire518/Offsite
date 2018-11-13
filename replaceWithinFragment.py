@@ -10,6 +10,12 @@ s = a + b.replace('h', 'H') + c
 print(s)
 '''
 
+#Use cases:
+'''
+There are a bunch of uses cases at the below link
+https://snakify.org/en/lessons/strings_str/problems/replace_inside_fragment/
+'''
+
 #my Code:
 a = str(input())
 b = a.count('h')
